@@ -9,4 +9,6 @@
 /home/thassya/CLionProjects/trab-grafos/main.cpp
 iostream
 -
+fstream
+-
 

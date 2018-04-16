@@ -25,7 +25,7 @@ O TAD ou classe deve apresentar as seguintes funcionalidades:
 ### Orientações:
  - seu TAD deve ser capaz de representar grafos (possivelmente digrafos, ponderados ou não) utilizando lista de adjacência;
  - o código deve ser desenvolvido em linguagem C ou C++ e deve estar bem comentado (código sem documentação será penalizado na nota);
- - o programa principal que usará o TAD deve ler os dados do grafo (ou digrafo) a partir de arquivo texto, conforme  odelo indicado neste documento;
+ - o programa principal que usará o TAD deve ler os dados do grafo (ou digrafo) a partir de arquivo texto, conforme modelo indicado neste documento;
  - para cada funcionalidade solicitada, seu programa deve apresentar uma opção em um menu apresentado no display;
  - todo o código deve ser desenvolvido utilizando o padrão ANSI da linguagem C/C++;
  - o padrão para a execução a ser utilizado pelo professor será a linha abaixo, executada em ambiente Linux ou IOS:

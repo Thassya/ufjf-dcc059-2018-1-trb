@@ -84,6 +84,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/thassya/CLionProjects/trab-grafos/Aresta.h">
+			<Option target="trab_grafos"/>
+		</Unit>
+		<Unit filename="/home/thassya/CLionProjects/trab-grafos/Grafo.h">
+			<Option target="trab_grafos"/>
+		</Unit>
+		<Unit filename="/home/thassya/CLionProjects/trab-grafos/No.h">
+			<Option target="trab_grafos"/>
+		</Unit>
 		<Unit filename="/home/thassya/CLionProjects/trab-grafos/main.cpp">
 			<Option target="trab_grafos"/>
 		</Unit>
