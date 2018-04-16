@@ -1,0 +1,3 @@
+/home/thassya/CLionProjects/trab-grafos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thassya/CLionProjects/trab-grafos/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thassya/CLionProjects/trab-grafos/cmake-build-debug/CMakeFiles/trab_grafos.dir
